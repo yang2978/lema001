@@ -57,6 +57,7 @@ dmypy.json
 # PyPI
 *.orig
 *.bak
+.pypirc
 
 # OS
 .DS_Store

@@ -5,14 +5,14 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "lema001"
 version = "0.1.0"
-description = "实验项目库 - 所有的实验项目都以 lema 打头后面加序号，这个是第一个项目"
+description = "lema是一组AI相关项目的集合，所有项目都以 lema打头后面加序号，本项目是第一个项目。本项目的核心目的是构建一组AI Agent Runtime所需的基础功能，其他系统可以通过PIP install安装，并在自身的Agent应用中通过import lema001导入相关功能。"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "jingyu.yang", email = "15801554959@aliyun.com"}
 ]
 maintainers = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "jingyu.yang", email = "15801554959@aliyun.com"}
 ]
 keywords = ["lema", "experiment", "library", "tools"]
 classifiers = [
@@ -47,10 +47,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/lema001"
-Repository = "https://github.com/yourusername/lema001.git"
-Documentation = "https://github.com/yourusername/lema001#readme"
-"Bug Tracker" = "https://github.com/yourusername/lema001/issues"
+Homepage = "https://github.com/jingyu-yang/lema001"
+Repository = "https://github.com/jingyu-yang/lema001.git"
+Documentation = "https://github.com/jingyu-yang/lema001#readme"
+"Bug Tracker" = "https://github.com/jingyu-yang/lema001/issues"
 
 [project.scripts]
 lema001 = "lema001:main"

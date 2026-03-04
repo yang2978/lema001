@@ -5,7 +5,7 @@ lema001 - 实验项目库
 """
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "jingyu.yang <15801554959@aliyun.com>"
 
 
 def hello():

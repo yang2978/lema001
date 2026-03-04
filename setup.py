@@ -14,12 +14,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="lema001",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="实验项目库 - 所有的实验项目都以 lema 打头后面加序号，这个是第一个项目",
+    author="jingyu.yang",
+    author_email="15801554959@aliyun.com",
+    description="lema是一组AI相关项目的集合，所有项目都以 lema打头后面加序号，本项目是第一个项目。本项目的核心目的是构建一组AI Agent Runtime所需的基础功能，其他系统可以通过PIP install安装，并在自身的Agent应用中通过import lema001导入相关功能。",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lema001",
+    url="https://github.com/jingyu-yang/lema001",
     packages=find_packages(where="."),
     classifiers=[
         "Development Status :: 3 - Alpha",
