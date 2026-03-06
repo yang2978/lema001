@@ -47,10 +47,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jingyu-yang/lema001"
-Repository = "https://github.com/jingyu-yang/lema001.git"
-Documentation = "https://github.com/jingyu-yang/lema001#readme"
-"Bug Tracker" = "https://github.com/jingyu-yang/lema001/issues"
+Homepage = "https://github.com/yang2978/lema001"
+Repository = "https://github.com/yang2978/lema001.git"
+Documentation = "https://github.com/yang2978/lema001#readme"
+"Bug Tracker" = "https://github.com/yang2978/lema001/issues"
 
 [project.scripts]
 lema001 = "lema001:main"
